@@ -45,6 +45,8 @@ Each assignment folder includes the problem statement, solution files, and analy
 - Implemented features like user authentication, item donation, and order management.
 - Employed secure practices such as hashed passwords and role-based access control.
 
+- The project repository can be found at : https://github.com/khwaab23/WelcomeHome
+
 ---
 
 ## 📂 Repository Structure
